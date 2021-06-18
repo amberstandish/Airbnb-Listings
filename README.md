@@ -1,5 +1,5 @@
 # Airbnb-Listings
-This repository contains a notebook that I have created to analyse London AirBnB listing data. 
+This repository contains a notebook that I have created to analyse London Airbnb listing data. 
 The underlying data is from InsideAirbnb and can be found [here](http://insideairbnb.com/get-the-data.html). The source for the map of London's boroughs can be found [here](http://insideairbnb.com/get-the-data.html).
 
 ## Table of contents
