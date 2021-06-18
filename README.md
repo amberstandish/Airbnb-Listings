@@ -30,7 +30,7 @@ This notebook has been created to better understand the London Airbnb rental mar
 Apart from the README file, there is only one notebook in this repository. It contains the code to I used to generate all outputs used in my analysis.
 
 ## <a name="results"></a> Results
-I have written a blog post discussing my findings [here](https://medium.com/@astandish19).
+I have written a blog post discussing my findings [here](https://astandish19.medium.com/heres-what-airbnb-data-tells-us-about-the-past-year-b2307500f983).
 
 ## <a name="licensing"></a> Licensing, Authors, and Acknowledgements
 Licensing information for the Airbnb data can be found [here](http://insideairbnb.com/about.html). The source for the waterfall charts code is [here](https://plotly.com/python/waterfall-charts/). The source for the map code is [here](https://www.lifebysummer.com/post/mapping-with-python-part-1). Otherwise, feel free to use the code here as you would like!
