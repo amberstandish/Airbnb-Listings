@@ -11,11 +11,11 @@ The underlying data is from InsideAirbnb and can be found [here](http://insideai
 
 ## <a name="installation"></a> Installation
 This code uses the following libraries:
-> pandas \n
-> numpy
-> plotly
-> matplotlib
-> geopandas
+- pandas 
+- numpy
+- plotly
+- matplotlib
+- geopandas
 
 This code should run without issues with Python 3.7.10 in Google Colaboratory.
 
