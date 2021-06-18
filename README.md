@@ -11,7 +11,7 @@ The underlying data is from InsideAirbnb and can be found [here](http://insideai
 
 ## <a name="installation"></a> Installation
 This code uses the following libraries:
-> pandas
+> pandas \n
 > numpy
 > plotly
 > matplotlib
